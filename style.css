@@ -1,0 +1,70 @@
+.grid{
+    background-image: url("back ground.jpg");
+    border: solid;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.press{
+    background-color: darkgreen;
+    color: deeppink;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+
+.item{
+    background-color: chocolate;
+    border-radius: 10px;
+    border-bottom: solid;
+    border-width: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.header{
+    background-color: blanchedalmond;
+    display :flex;
+    justify-content: center;
+    padding: 30px;
+    margin: 10px;
+}
+
+.menu{
+    background-color : gainsboro;
+    display :flex;
+    justify-content: space-evenly;
+    padding: 25px;
+    margin: 10px;
+}
+
+.origami{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin: 10px;
+}
+
+.follow{
+    background-color: cyan;
+    text-align: left;
+    font-size: x-large;
+    margin: 10px;
+}
+
+.last{
+    border: solid;
+    background-color: crimson;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
